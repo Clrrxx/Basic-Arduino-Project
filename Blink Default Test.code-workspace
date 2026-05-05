@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "Blink Default Test"
+		},
+		{
+			"name": "Hello World",
+			"path": "Hello World"
+		},
+		{
+			"name": "LED Blinking",
+			"path": "LED Blinking"
+		},
+		{
+			"name": "3. RGB LED",
+			"path": "3. RGB LED"
+		},
+		{
+			"name": "4. DIgital Input",
+			"path": "4. DIgital Input"
+		}
+	],
+	"settings": {}
+}
